@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "/Users/amit/location_project/linux",
+    "java.project.sourcePaths": [
+        "ios/Runner.xcodeproj"
+    ]
+}

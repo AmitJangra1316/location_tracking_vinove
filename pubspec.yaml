@@ -1,0 +1,32 @@
+name: location_project
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.5.4 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.5
+  timeline_tile: ^2.0.0
+  intl: ^0.18.0
+  flutter_slide_drawer: ^1.0.3
+  cupertino_icons: ^1.0.8
+  drawerbehavior: ^3.0.0
+  google_maps_flutter: ^2.1.1
+  flutter_map: ^4.0.0
+  latlong2: ^0.8.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/profile_pic.png
+    - assets/signup.png
